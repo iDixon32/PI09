@@ -1,0 +1,50 @@
+@model Poslovi
+
+@{
+  ViewBag.Title = "Ažuriranje poslova";
+}
+
+<form 
+      asp-route-page="@ViewBag.Page"
+      asp-route-sort="@ViewBag.Sort"
+      asp-route-ascending="@ViewBag.Ascending"
+      method="post">
+  <div asp-validation-summary="All"></div>
+  @*Ne koristi se, jer se ne rekonstruira cijela država, već se samo koristi id koji je već u parametrima route*@
+  @*<input type="hidden" asp-for="OznDrzave" />*@ 
+  <div class="form-group">
+    <label asp-for="Naziv"></label>
+    <div><span asp-validation-for="Naziv" class="text-danger"></span></div>
+    <input asp-for="Naziv" class="form-control" />
+  </div>
+  <div class="form-group">
+    <label asp-for="Mjesto"></label>
+    <div><span asp-validation-for="Mjesto" class="text-danger"></span></div>
+    <textarea asp-for="Mjesto" class="form-control"></textarea>
+  </div>
+  <div class="form-group">
+    <label asp-for="IdNatječaji"></label>
+   <select class="form-control" asp-for="IdNatječaji" asp-items="ViewBag.Natječaji">
+      <option disabled selected value="">Odaberite natječaj</option>
+   </select>
+  </div>
+  <div class="form-group">
+    <label asp-for="IdUsluge"></label>
+   <select class="form-control" asp-for="IdUsluge" asp-items="ViewBag.Usluge">
+    <option disabled selected value=""> Odaberite uslugu </option>
+    </select>
+  </div>
+  <div class="form-group">
+    <label asp-for="VrijemeTrajanja"></label>
+    <div><span asp-validation-for="VrijemeTrajanja" class="text-danger"></span></div>
+    <input asp-for="VrijemeTrajanja" class="form-control" />
+  </div>
+  <div class="text-center">
+    <button class="btn btn-primary" type="submit">Spremi</button>
+    <a asp-action="Index"
+       asp-route-page="@ViewBag.Page"
+       asp-route-sort="@ViewBag.Sort"
+       asp-route-ascending="@ViewBag.Ascending"
+       class="btn btn-secondary">Odustani</a>
+  </div>
+</form>

@@ -1,0 +1,22 @@
+2020-06-07 15:59:50.8076|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-07 15:59:51.1951|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-07 15:59:51.2642|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-07 15:59:51.2877|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-07 15:59:51.4319|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-07 16:00:48.7997|3|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|ERROR|The view 'Show' was not found. Searched locations: /Views/ViewLog/Show.cshtml, /Views/Shared/Show.cshtml 
+2020-06-07 16:00:49.1322|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. The view 'Show' was not found. The following locations were searched:
+/Views/ViewLog/Show.cshtml
+/Views/Shared/Show.cshtml
+2020-06-07 16:01:50.0887|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-07 16:01:50.3256|0|OZO.Program|DEBUG|init main 
+2020-06-07 16:01:50.5165|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-07 16:01:50.5392|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-07 16:01:50.5649|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-07 16:01:50.5902|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-07 16:01:50.6257|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-07 16:01:52.3054|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-07 16:03:05.7788|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-07 16:03:06.0813|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-07 16:03:06.1210|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-07 16:03:06.1567|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-07 16:03:06.1845|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 

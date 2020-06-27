@@ -1,0 +1,52 @@
+@model OZO.ViewModels.PosloviViewModel
+@{
+  ViewBag.Title = "Oprema";
+}
+<h2>Popis poslova</h2>
+<a asp-action="Create">Unos nove opreme</a>
+
+<pager page-info="@Model.PagingInfo" page-action="Index" page-title="Unesite željenu stranicu"
+       class="float-right">
+</pager>
+
+<table class="table table-sm table-striped table-hover" id="tableoprema">
+  <thead>
+    <tr>
+         @{
+                string[] nazivi = { "", "Šifra", "Naziv", "Status", "Dostupnost", "Referentni tip"};
+                bool[] sortable = { false, true, true, true, false, true };
+                for (int i = 1; i <= nazivi.Length; i++)
+                {
+                    <th>
+                        @if (sortable[i - 1])
+                        {
+                            <a asp-route-sort="@i" asp-route-page="@Model.PagingInfo.CurrentPage" asp-route-ascending="@(Model.PagingInfo.Sort == i ? !Model.PagingInfo.Ascending : true)">
+                                @nazivi[i - 1]
+                            </a>
+                        }
+                        else
+                        {
+                            @nazivi[i - 1]
+                        }
+                    </th>
+                }
+            }
+            <th></th>
+            <th></th>
+    </tr>
+  </thead>
+  <tbody>
+        @foreach (var oprema in Model.Oprema)
+        {
+          <partial name="Row" model="oprema" />
+        }
+    </tbody>
+</table>
+@section scripts{
+    <script type="text/javascript">
+        $(function () {
+            SetEditAjax(".editajax", '@Url.Action("Edit")', 'IdOprema');
+            SetDeleteAjax(".deleteajax", '@Url.Action("Delete")', 'IdOprema');
+        });
+</script>
+}

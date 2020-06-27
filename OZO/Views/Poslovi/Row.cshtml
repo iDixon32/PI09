@@ -1,0 +1,27 @@
+@model OZO.ViewModels.PosaoViewModel
+
+<tr>
+  <td class="text-left">@Model.IdPoslovi </td>
+  <td class="text-left">@Model.Naziv</td>
+  <td class="text-left">@Model.Mjesto</td>
+  <td class="text-left">@Model.NazivNatječaja</td>
+  <td class="text-left">@Model.NazivUsluge</td>
+  <td class="text-left">@Model.VrijemeTrajanja </td>
+  <td>
+      <a asp-action="Edit"
+         asp-route-page="@ViewBag.PagingInfo.CurrentPage"
+         asp-route-sort="@ViewBag.PagingInfo.Sort"
+         asp-route-ascending="@ViewBag.PagingInfo.Ascending"
+         asp-route-id="@Model.IdPoslovi"         
+         class="btn btn-sm" title="Ažuriraj">
+         <i class="fas fa-edit"></i></a>
+  </td>
+  <td>
+    <form asp-action="Delete" method="post">
+      @*Neće se koristiti direktni submit, ali treba zbog anti forgery tokena*@
+      @*Jednako tako nije potreban ni ovaj input type=hidden ako skripta ispravno radi*@
+      <input type="hidden" name="id" value="@Model.IdPoslovi" />
+      <button data-idposlovi="@Model.IdPoslovi" class="btn btn-sm btn-danger deleteajax" title="Obriši"><i class="fas fa-trash-alt"></i></button>
+    </form>
+  </td>
+</tr>

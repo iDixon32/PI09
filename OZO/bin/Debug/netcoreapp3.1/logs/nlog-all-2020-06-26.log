@@ -1,0 +1,187 @@
+2020-06-26 16:40:03.5373|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 16:40:04.2621|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 16:40:04.3399|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 16:40:04.4199|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 16:40:04.4996|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 16:46:04.3597|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 16:46:05.0390|0|OZO.Program|DEBUG|init main 
+2020-06-26 16:46:05.3637|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 16:46:05.4073|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 16:46:05.4456|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 16:46:05.4832|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 16:46:05.5193|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 18:23:47.6654|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 22:21:48.9539|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 22:21:49.3411|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 22:21:49.4161|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 22:21:49.4869|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 22:21:49.5490|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 22:25:49.0739|3|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|ERROR|The view 'Index' was not found. Searched locations: /Views/Report/Index.cshtml, /Views/Shared/Index.cshtml 
+2020-06-26 22:25:49.2764|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. The view 'Index' was not found. The following locations were searched:
+/Views/Report/Index.cshtml
+/Views/Shared/Index.cshtml
+2020-06-26 22:27:38.5485|3|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|ERROR|The view 'Index' was not found. Searched locations: /Views/Report/Index.cshtml, /Views/Shared/Index.cshtml 
+2020-06-26 22:27:38.6401|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. The view 'Index' was not found. The following locations were searched:
+/Views/Report/Index.cshtml
+/Views/Shared/Index.cshtml
+2020-06-26 22:27:48.5066|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 22:27:49.0319|0|OZO.Program|DEBUG|init main 
+2020-06-26 22:27:49.5225|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 22:27:49.6109|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 22:27:49.7252|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 22:27:49.8027|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 22:27:49.8999|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 22:27:53.1607|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 22:28:38.0743|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 22:28:38.4587|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 22:28:38.5172|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 22:28:38.5584|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 22:28:38.5913|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 22:29:01.9902|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Unable to cast object of type 'System.Int32' to type 'System.Byte[]'.
+2020-06-26 22:36:02.2403|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 22:36:02.5549|0|OZO.Program|DEBUG|init main 
+2020-06-26 22:36:02.9088|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 22:36:02.9446|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 22:36:02.9849|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 22:36:03.0277|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 22:36:03.0664|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 22:36:08.7215|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 22:38:17.3487|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 22:38:17.5639|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 22:38:17.6629|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 22:38:17.7062|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 22:38:17.7438|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 22:38:49.1370|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Unable to cast object of type 'System.Int32' to type 'System.Byte[]'.
+2020-06-26 22:38:50.1989|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Unable to cast object of type 'System.Int32' to type 'System.Byte[]'.
+2020-06-26 22:38:52.3573|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Unable to cast object of type 'System.Int32' to type 'System.Byte[]'.
+2020-06-26 22:41:28.0086|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 22:41:28.4005|0|OZO.Program|DEBUG|init main 
+2020-06-26 22:41:29.1764|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 22:41:29.2582|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 22:41:29.3586|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 22:41:29.4685|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 22:41:29.6142|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 22:41:30.7366|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 22:51:53.2496|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 22:51:53.4652|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 22:51:53.5003|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 22:51:53.5308|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 22:51:53.5583|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 22:58:11.1596|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 22:58:11.3453|0|OZO.Program|DEBUG|init main 
+2020-06-26 22:58:11.6386|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 22:58:11.6854|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 22:58:11.7304|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 22:58:11.7623|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 22:58:11.7915|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 22:58:13.8922|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 22:58:40.1798|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 22:58:40.3302|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 22:58:40.3564|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 22:58:40.3812|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 22:58:40.3995|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 22:58:59.3952|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 22:58:59.7074|0|OZO.Program|DEBUG|init main 
+2020-06-26 22:59:00.1827|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 22:59:00.2838|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 22:59:00.3610|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 22:59:00.4832|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 22:59:00.5495|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 22:59:00.8065|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 23:00:38.0821|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 23:00:38.2980|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 23:00:38.3403|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 23:00:38.3701|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 23:00:38.4219|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 23:01:07.0001|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Invalid cast from 'DateTime' to 'Double'.
+2020-06-26 23:01:49.0487|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 23:01:49.2130|0|OZO.Program|DEBUG|init main 
+2020-06-26 23:01:49.4570|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 23:01:49.4923|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 23:01:49.5211|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 23:01:49.5510|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 23:01:49.5805|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 23:01:52.3974|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 23:02:19.3523|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 23:02:19.5174|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 23:02:19.5439|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 23:02:19.5673|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 23:02:19.5920|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 23:02:25.9400|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 23:02:26.1132|0|OZO.Program|DEBUG|init main 
+2020-06-26 23:02:26.4180|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 23:02:26.4524|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 23:02:26.5172|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 23:02:26.5670|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 23:02:26.6175|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 23:04:26.4274|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 23:05:02.6828|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 23:05:02.8535|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 23:05:02.8878|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 23:05:02.9171|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 23:05:02.9487|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 23:06:14.9566|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 23:06:15.1242|0|OZO.Program|DEBUG|init main 
+2020-06-26 23:06:15.3273|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 23:06:15.3667|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 23:06:15.4065|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 23:06:15.4744|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 23:06:15.5347|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 23:06:16.9879|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 23:07:51.8955|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 23:07:52.1194|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 23:07:52.4398|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 23:07:52.5440|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 23:07:52.8804|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 23:09:13.9565|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 23:09:14.1409|0|OZO.Program|DEBUG|init main 
+2020-06-26 23:09:14.4320|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 23:09:14.5033|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 23:09:14.5450|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 23:09:14.5854|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 23:09:14.6258|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 23:24:03.8631|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 23:26:17.9634|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 23:26:18.1255|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 23:26:18.2177|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 23:26:18.2457|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 23:26:18.2741|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 23:29:30.1621|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 23:29:30.2527|0|OZO.Program|DEBUG|init main 
+2020-06-26 23:29:30.3598|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 23:29:30.3739|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 23:29:30.3882|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 23:29:30.4024|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 23:29:30.4190|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 23:30:37.2162|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 23:30:52.4783|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 23:30:52.5571|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 23:30:52.5716|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 23:30:52.5859|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 23:30:52.5988|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 23:32:11.0500|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 23:32:11.1222|0|OZO.Program|DEBUG|init main 
+2020-06-26 23:32:11.2091|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 23:32:11.2385|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 23:32:11.2518|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 23:32:11.2518|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 23:32:11.2783|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 23:32:14.7891|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 23:33:48.2284|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 23:33:48.3548|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 23:33:48.4018|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 23:33:48.4212|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 23:33:48.4536|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 23:34:49.6530|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 23:34:49.7231|0|OZO.Program|DEBUG|init main 
+2020-06-26 23:34:49.8089|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 23:34:49.8379|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 23:34:49.8379|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 23:34:49.8650|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 23:34:49.8788|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
+2020-06-26 23:35:03.5782|0|Microsoft.Hosting.Lifetime|INFO|Application is shutting down... 
+2020-06-26 23:56:16.6586|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://localhost:5001 
+2020-06-26 23:56:16.7342|0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://localhost:5000 
+2020-06-26 23:56:16.7342|0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. 
+2020-06-26 23:56:16.7618|0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Development 
+2020-06-26 23:56:16.7618|0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\Users\Iva\Desktop\FSRE_sem6\PI\vjezba\OZO 
